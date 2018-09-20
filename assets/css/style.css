@@ -1,0 +1,46 @@
+
+body {
+  background-image: url(..//images/congruent_pentagon.png);
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  
+}
+
+h1	{
+  color:rgb(20, 19, 19);
+  font-family: arial, sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  margin-top: 45px;
+  margin-bottom: 45px;
+  }
+
+  h1 span {
+    background-color: orange;
+    padding: 35px;
+  }
+
+  .main-content {
+    color: black;
+    background-color: rgb(31, 19, 4);
+    float: left;
+    width: 300px;
+    height: 150px;
+  }
+
+  .main-content span {
+    background-color: rgb(41, 4, 4);
+  }
+
+ .column  {
+   flex: 5%;
+   padding: 100px;
+   background-image: url(..//images/congruent_pentagon.png);
+
+
+}
+
+.card-body {
+  color: green;
+}
+
+}
